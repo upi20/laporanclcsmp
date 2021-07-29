@@ -1,0 +1,52 @@
+Cabang:
+1. Dashboard
+ - Jumlah Hutang [sudah]-
+ - button bayar [sudah]-
+2. Proposal
+ - cetak proposal [sudah]-
+3. Ubah Password:
+ - masukan password lama [sudah]-
+ - masukan password baru [sudah]-
+ - masukan password baru retype [sudah]-
+4. https://laporanclcsmp.com/laporan/standard -> bug ['sudah']-
+5. hassets\img\kinabalu.jpg replace assets/img/kinabalu.jpg -> bug ['sudah']-
+6. mobile jumlah saldo Dashboard[sudah]-
+7. pas tamabh form di clear[sudah]-
+8. rab baru insert [sudah]-
+9. Export rab dan import pake header[sudah]
+10. Bug foto laporan[sudah]-
+
+Admin Pusat:
+1. RAB - Proposal
+ - filter by npsn, status [sudah]
+2. Proposal
+ - cetak proposal [sudah]
+3. Admin bisa ubah password cabang secara sepihak ['sudah]
+4. https://laporanclcsmp.com/laporan/standard -> bug ['sudah']
+5. hassets\img\kinabalu.jpg replace assets/img/kinabalu.jpg -> bug ['sudah']
+6. Filter admin cabang != pusat [sudah]
+7. Export rab dan import pake header[sudah]
+8. Tambah cabang pengkodean[sudah]
+9. Bug foto laporan [sudah]
+10. preview -> detail[sudah]
+
+Mobile:
+1. hapus file setelah di import
+
+konten seperti google form, konten bisa di
+link youtube, barcode,
+admin punya standar penilaian -> project
+ indikator 1 -> nilai A
+ indikator 2 -> nilai B
+ indikator 3 -> nilai C
+ indikator 4 -> nilai D
+
+
+Langkah-langkah = 20%
+Kuisioner = 80%
+
+
+1. Informasi text, file, link, download
+2. langkah-langkah real dilapangan -> setelah muncul nilai, maka bisa diperbaiki jika nilai nya tidak bagus
+3. meng generate langkah2 menjadi barcode
+4. menjawab soal ke uraian

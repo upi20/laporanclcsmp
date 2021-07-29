@@ -1,0 +1,12 @@
+{
+    "name": "isepl/clc-keuangan",
+    "authors": [
+        {
+            "name": "Isep Lutpi Nur",
+            "email": "iseplutpinur7@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18"
+    }
+}
